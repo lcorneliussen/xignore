@@ -19,6 +19,11 @@ obj/
 *.suo
 *.user
 
+# Visual Source Safe Ignores
+*.vssscc
+*.vspscc
+*.scc
+
 # Resharper Ignores
 _ReSharper.*/
 *.resharper.user
