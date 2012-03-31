@@ -1,9 +1,7 @@
 # Project-Specific
-mvn-repository/
-svn-repository/
-.svn
-branches
-tags
+
+#Disable Nuget Packages by default - Enable Nuget Package Restore on the solution, instead of checking them in!
+packages/
 
 # Maven stuff
 target/
