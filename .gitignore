@@ -1,4 +1,5 @@
-# Project-Specific
+# from https://raw.github.com/lcorneliussen/xignore
+# Project-Specific ignores at the bottom (as tools usually append them there)
 
 #Disable Nuget Packages by default - Enable Nuget Package Restore on the solution, instead of checking them in!
 packages/
@@ -48,3 +49,5 @@ Thumbs.db
 
 *.ncb
 *.bak
+
+# Project-Specific ignores go here...
